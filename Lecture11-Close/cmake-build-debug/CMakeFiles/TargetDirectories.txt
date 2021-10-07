@@ -1,0 +1,3 @@
+/home/berkan/CLionProjects/OpenCV/Ders11_Close/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/berkan/CLionProjects/OpenCV/Ders11_Close/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/berkan/CLionProjects/OpenCV/Ders11_Close/cmake-build-debug/CMakeFiles/Ders11_Close.dir
