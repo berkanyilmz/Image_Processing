@@ -1,0 +1,3 @@
+/home/berkan/CLionProjects/OpenCV/Ders18_BilgiCikarma/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/berkan/CLionProjects/OpenCV/Ders18_BilgiCikarma/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/berkan/CLionProjects/OpenCV/Ders18_BilgiCikarma/cmake-build-debug/CMakeFiles/Ders18_BilgiCikarma.dir
