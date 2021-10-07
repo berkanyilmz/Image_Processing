@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Ders8_Erezyon.dir/main.cpp.o -o Ders8_Erezyon 

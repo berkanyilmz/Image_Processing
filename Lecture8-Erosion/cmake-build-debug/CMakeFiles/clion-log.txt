@@ -1,0 +1,4 @@
+/home/berkan/indirilenler/CLion-2021.2/clion-2021.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/berkan/CLionProjects/OpenCV/Ders8_Erozyon
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/berkan/CLionProjects/OpenCV/Ders8_Erozyon/cmake-build-debug
