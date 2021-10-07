@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/berkan/CLionProjects/OpenCV/Ders5-CizimIslemleri/main.cpp
+iostream
+-
+opencv4/opencv2/opencv.hpp
+-
+
