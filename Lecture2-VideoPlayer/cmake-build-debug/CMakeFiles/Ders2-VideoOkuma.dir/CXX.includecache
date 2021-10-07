@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/berkan/CLionProjects/OpenCV/Ders2-VideoOkuma/main.cpp
+opencv4/opencv2/opencv.hpp
+-
+iostream
+-
+

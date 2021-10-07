@@ -1,0 +1,3 @@
+/home/berkan/CLionProjects/Ders3-KameradanGoruntuOkuma/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/berkan/CLionProjects/Ders3-KameradanGoruntuOkuma/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/berkan/CLionProjects/Ders3-KameradanGoruntuOkuma/cmake-build-debug/CMakeFiles/Ders3_KameradanGoruntuOkuma.dir
